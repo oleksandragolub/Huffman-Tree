@@ -1,8 +1,5 @@
-%ARESTA SIMONE 875192
-%GOLUB OLEKSANDRA 856706
 
-
-%per generare l'albero dobbiamo affrontare 3 problemi principalmente:
+% per generare l'albero dobbiamo affrontare 3 problemi principalmente:
 % 1)verificare che nell'albero non siano presenti simboli duplicati
 % 2)creare i nodi
 % 3)garantire che i nodi siano ordinati in ordine decrescente a seconda
