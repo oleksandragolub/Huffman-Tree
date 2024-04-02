@@ -1,7 +1,3 @@
-Progetto realizzato da: 
-ARESTA SIMONE 875192
-GOLUB OLEKSANDRA 856706
-
 
 -he_generate_huffman_tree/2-> prende in input una lista di coppie 
 [simbolo peso], nella forma :
